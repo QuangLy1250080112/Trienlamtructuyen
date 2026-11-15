@@ -26,7 +26,7 @@
 - Windows có hỗ trợ ứng dụng Windows Forms.
 - .NET 9 SDK để khôi phục gói, biên dịch và chạy từ mã nguồn.
 - SQL Server có thể truy cập từ máy chạy ứng dụng.
-- Cơ sở dữ liệu `Trienlamtructuyen` đã được tạo, có cấu trúc bảng và dữ liệu tài khoản phù hợp với ứng dụng.
+- Cơ sở dữ liệu `Trienlamtructuyen` cùng dữ liệu mẫu đã được tạo (thư mục assets/Trienlamtructuyen.sql), có cấu trúc bảng và dữ liệu tài khoản phù hợp với ứng dụng.
 - Micro và thư mục mô hình `model-vn` đặt cạnh tệp chạy ứng dụng nếu cần sử dụng nhận diện giọng nói. Đây là chức năng tùy chọn.
 
 ## Cài đặt và cấu hình
